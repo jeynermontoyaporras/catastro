@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1200 1050">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse"><path d="M0 0L8 4L0 8Z" fill="#334155"/></marker></defs>
+<rect width="1200" height="1050" fill="#fff"/>
+<g font-family="Arial, sans-serif" fill="#183047">
+<text x="60" y="55" font-size="30" font-weight="bold">Zona marítimo terrestre · croquis de estudio</text>
+<text x="60" y="86" font-size="18" fill="#526579">Ley 6043, artículos 9 y 10 · Costa recta, sin manglares ni esteros</text>
+<text x="485" y="135" font-size="19" font-weight="bold">TIERRA ADENTRO</text>
+<rect x="180" y="160" width="660" height="80" fill="#e9f0e5"/>
+<text x="510" y="200" text-anchor="middle" font-size="18">Terreno fuera de la franja ordinaria de 200 m</text>
+<rect x="180" y="240" width="660" height="450" fill="#dcead4"/>
+<rect x="180" y="690" width="660" height="150" fill="#fff0c2"/>
+<rect x="180" y="840" width="660" height="120" fill="#b9e3f3"/>
+<path d="M180 240H840" stroke="#456849" stroke-width="4" stroke-dasharray="12 7"/>
+<path d="M180 690H840" stroke="#aa7c25" stroke-width="4"/>
+<path d="M180 840H840" stroke="#147b9c" stroke-width="5"/>
+<g fill="#9d6819" stroke="#fff" stroke-width="2"><circle cx="210" cy="690" r="7"/><circle cx="400" cy="690" r="7"/><circle cx="590" cy="690" r="7"/><circle cx="810" cy="690" r="7"/></g>
+<text x="510" y="300" text-anchor="middle" font-size="28" font-weight="bold">ZONA RESTRINGIDA</text>
+<text x="510" y="335" text-anchor="middle" font-size="23">150 m de ancho</text>
+<rect x="355" y="395" width="280" height="190" rx="3" fill="#fff" fill-opacity="0.68" stroke="#416838" stroke-width="3"/>
+<text x="495" y="462" text-anchor="middle" font-size="23" font-weight="bold">PARCELA</text>
+<text x="495" y="494" text-anchor="middle" font-size="18">Ejemplo dentro de la</text>
+<text x="495" y="520" text-anchor="middle" font-size="18">zona restringida</text>
+<text x="495" y="552" text-anchor="middle" font-size="15">No implica propiedad privada</text>
+<text x="510" y="750" text-anchor="middle" font-size="27" font-weight="bold">ZONA PÚBLICA</text>
+<text x="510" y="785" text-anchor="middle" font-size="23">50 m de ancho</text>
+<text x="510" y="907" text-anchor="middle" font-size="29" fill="#126080" font-weight="bold">MAR</text>
+<g stroke="#334155" stroke-width="2" fill="none">
+<path d="M145 248V682" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<path d="M145 698V832" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<path d="M180 240H125M180 690H125M180 840H125"/>
+<path d="M890 248V832" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<path d="M840 240H905M840 840H905"/>
+</g>
+<text transform="translate(119 465) rotate(-90)" text-anchor="middle" font-size="22">150 m</text>
+<text transform="translate(119 765) rotate(-90)" text-anchor="middle" font-size="22">50 m</text>
+<text transform="translate(926 540) rotate(-90)" text-anchor="middle" font-size="24" font-weight="bold">200 m · ANCHO TOTAL DE LA ZMT</text>
+<text x="965" y="249" font-size="21" font-weight="bold">200 m</text>
+<text x="965" y="277" font-size="16">Límite terrestre</text>
+<text x="965" y="696" font-size="21" font-weight="bold">50 m</text>
+<text x="965" y="724" font-size="16">Límite de zona pública</text>
+<text x="965" y="845" font-size="21" font-weight="bold">0 m · Pleamar</text>
+<text x="965" y="873" font-size="16">ordinaria</text>
+<path d="M1045 440V345" stroke="#183047" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="1045" y="325" text-anchor="middle" font-size="25" font-weight="bold">N</text>
+<text x="60" y="1003" font-size="19" font-weight="bold">Las distancias se miden horizontalmente desde la línea de pleamar ordinaria.</text>
+<text x="60" y="1032" font-size="16" fill="#526579">Esquema didáctico. No representa una delimitación oficial ni las áreas descubiertas durante la marea baja.</text>
+<g fill="#183047" stroke="white" stroke-width="3">
+<circle cx="215" cy="840" r="23"/>
+<circle cx="225" cy="760" r="23"/>
+<circle cx="215" cy="690" r="23"/>
+<circle cx="225" cy="310" r="23"/>
+<circle cx="215" cy="240" r="23"/>
+</g>
+<g fill="white" font-size="25" font-weight="bold" text-anchor="middle" dominant-baseline="central">
+<text x="215" y="840">1</text>
+<text x="225" y="760">2</text>
+<text x="215" y="690">3</text>
+<text x="225" y="310">4</text>
+<text x="215" y="240">5</text>
+</g>
+</g></svg>
